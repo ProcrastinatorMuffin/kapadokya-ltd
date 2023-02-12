@@ -42,7 +42,76 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+@media screen and (max-width: 1099px) {
+  h1 {
+  	font-size: 9.8rem;
+  }
+  .btn-xl {
+  	font-size: 9.8rem;
+  }
+}
+@media screen and (max-width: 999px) {
+  h1 {
+  	font-size: 8.3rem;
+  }
+  .btn-xl {
+  	font-size: 8.3rem;
+  }
+}
+@media screen and (max-width: 899px) {
+  h1 {
+  	font-size: 8.2rem;
+  }
+  .btn-xl {
+  	font-size: 8.2rem;
+  }
+}
+@media screen and (max-width: 799px) {
+  h1 {
+  	font-size: 7.7rem;
+  }
+  .btn-xl {
+  	font-size: 7.7rem;
+  }
+}
+@media screen and (max-width: 699px) {
+  h1 {
+  	font-size: 7rem;
+  }
+  .btn-xl {
+  	font-size: 7rem;
+  }
+}
+@media screen and (max-width: 599px) {
+  h1 {
+  	font-size: 6.8rem;
+  }
+  .btn-xl {
+  	font-size: 6.8rem;
+  }
+}
+@media screen and (max-width: 499px) {
+  h1 {
+  	font-size: 6.4rem;
+  }
+  .btn-xl {
+  	font-size: 6.4rem;
+  }
+}
+@media screen and (max-width: 399px) {
+  h1 {
+  	font-size: 4.8rem;
+  }
+  .btn-xl {
+  	font-size: 4.8rem;
+  }
+}
+@media screen and (max-width: 299px) {
+  h1 {
+  	font-size: 4.2rem;
+  }
+  .btn-xl {
+  	font-size: 4.2rem;
+  }
+}
 
-/*p, a{
-	color: #E14D2A;
-}*/
