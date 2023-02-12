@@ -98,37 +98,33 @@ h1 {
   	font-size: 6.8rem;
   }
 }
-@media screen and (max-width: 499px) {
+/*making sure samsung s20 ultra displays properlly*/
+@media screen and (max-width: 415px) and (max-height: 916px) {
   h1 {
-  	font-size: 6.4rem;
-  }
-  .btn-primary {
-  	font-size: 6.4rem;
-  }
-}
-@media screen and (max-width: 430px) {
-  h1 {
-    font-size: 6.4rem;
+    font-size: 6.7rem;
   }
   .btn-primary {
     font-size: 5rem;
     font-weight: 600;
   }
 }
-@media screen and (max-width: 399px) {
+/*making sure iphone 12 pro displays properlly*/
+@media screen and (max-width: 391px) and (max-height: 845px) {
   h1 {
-  	font-size: 6.1rem;
+    font-size: 6rem;
   }
   .btn-primary {
-  	font-size: 4.8rem;
+    font-size: 4.6rem;
     font-weight: 600;
   }
 }
-@media screen and (max-width: 299px) {
+/*making sure iphone 12 mini displays properlly*/
+@media screen and (max-width: 376px) and (max-height: 815px) {
   h1 {
-  	font-size: 4.2rem;
+    font-size: 5.8rem;
   }
   .btn-primary {
-  	font-size: 4.2rem;
+    font-size: 4.4rem;
+    font-weight: 600;
   }
 }
